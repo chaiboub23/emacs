@@ -1,0 +1,7 @@
+init.el~
+auto-save-list/
+places
+url/
+.DS_Store
+.git
+.gitmodules
