@@ -5,5 +5,5 @@ this repository contains my simple emacs config, the majority of which is just a
 install by:
 
 ```
-https://github.com/chaiboub23/emacs.git
+git clone https://github.com/chaiboub23/emacs.git
 ```
